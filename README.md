@@ -92,7 +92,7 @@ Due to the volatility of archives hosted elsewhere, all archives hosted outside 
 Page | Logged in? | Type | Additional details | Year
 :---|:---:|:---:|---|---:
 
-[Creator Studio : Status] (https://www.youtube.com/features?nv=1) |
+[Creator Studio : Status] (https://www.youtube.com/features?nv=1) |                                                                                                                                
 Yes | Login with your account | | 2019
 
 Logo made by UnderscoreAngel. [GitHub page](https://github.com/UnderscoreAngel)
